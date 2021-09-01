@@ -12,8 +12,7 @@ sampleDict = {
       }
    }
 }
-history = sampleDict['class']['student']['marks']['history']
-print(history)
+print(sampleDict['class']['student']['marks']['history'])
 
 
 # 2) Add 2 inches to the son's height.
